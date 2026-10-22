@@ -84,5 +84,5 @@ Let **L** represent the length of a word or prefix.
 ## Project Links
 
 - **GitHub:** This repository
-- **YouTube presentation:** To be added
-- **LinkedIn post:** To be added
+- **YouTube presentation:** https://youtu.be/2bZTXe7q0gA
+- **LinkedIn post:** https://www.linkedin.com/in/arya-desai-7492b3359/
